@@ -1,4 +1,4 @@
-# newswebsite
+# Newswebsite
 This is a news website it gets the news using a news api
 
 
@@ -7,4 +7,9 @@ This is a news website it gets the news using a news api
 -> Used Bootsrap and basic HTML,JavaScript, CSS to design the front-end
 
 -> Used API to get a HTTP request for getting the latest news
+
+
+## To run - copy the file and use live server in yor local host
+
+
 
